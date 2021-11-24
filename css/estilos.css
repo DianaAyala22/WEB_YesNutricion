@@ -1,0 +1,214 @@
+    #yesnutricion {
+        display: table;
+        width: 100%;
+        height: 100vh;
+        background: url(../img/fondofrutas.jpg) top center fixed;
+        background-size: cover;
+      }
+      
+      #yesnutricion .yesnutricion-logo {
+        margin: 20px;
+      }
+      
+      #yesnutricion .yesnutricion-logo img {
+        max-width: 100%;
+      }
+      
+      #yesnutricion .yesnutricion-container {
+        background: rgba(255, 255, 255, 0.8);
+        display: table-cell;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        vertical-align: middle;
+      }
+      
+      #yesnutricion h1 {
+        margin: 30px 0 10px 0;
+        font-weight: 700;
+        line-height: 48px;
+        text-transform: uppercase;
+        color: #fff;
+      }
+      
+      @media (max-width: 768px) {
+        #yesnutricion h1 {
+          font-size: 28px;
+          line-height: 36px;
+        }
+      }
+      
+      #yesnutricion h2 {
+        color: #5A5A5A;
+        margin-bottom: 50px;
+      }
+      
+      @media (max-width: 768px) {
+        #yesnutricion h2 {
+          font-size: 24px;
+          line-height: 26px;
+          margin-bottom: 30px;
+        }
+      }
+      
+      
+      #yesnutricion .btn-get-started {
+        background: #03C4EB;
+        border: 2px solid #03C4EB;
+        color: #fff;
+      }
+      
+      #yesnutricion .btn-get-started:hover {
+        background: none;
+        border: 2px solid #fff;
+        color: #fff;
+      }
+      
+      #yesnutricion .btn-services {
+        border: 2px solid #fff;
+        color: #fff;
+      }
+      
+      #yesnutricion .btn-services:hover {
+        background: #03C4EB;
+        border: 2px solid #03C4EB;
+      }
+
+
+     
+
+      
+#navbar {
+    background-color: #bdecb6;
+}
+
+.navbar-fixed {
+	position:fixed;
+	z-index:1000;
+	top:0;
+	/*max-width:1000px;*/
+	left:0;
+	width:100%;
+}
+
+#navbartext {
+    color: #414141;
+    font-family: 'Poppins', sans-serif;
+    font-style: bold;
+    font-weight: 800;
+    font-size: 15px;
+    max-width: 1360px;
+    height: auto;
+}
+
+#carrusel{
+    margin-top: 300px;
+}
+
+#card-title{
+    font-family: 'Poppins', sans-serif; 
+    font-style: bold; 
+    font-weight: 800;
+    font-size: 30px;
+    text-align: left;
+}
+
+#card-title-m{
+    font-family: 'Poppins', sans-serif; 
+    font-style: bold; 
+    font-weight: 800;
+    font-size: 15px;
+}
+
+#textocard {
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 500;
+    font-size: 18px;
+}
+
+#textomuted {
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#cardtexttitle {
+    font-family: 'Poppins', sans-serif; 
+    font-style: bold; 
+    font-weight: 800;
+    font-size: 20px;
+    text-align: left;
+    color: black;
+}
+
+#textcardtext{
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 500;
+    font-size: 15px;
+    text-align: left;
+    color: white;
+}
+
+#cardtext {
+    font-family: 'Poppins', sans-serif; 
+    font-style: bold; 
+    font-weight: 800;
+    font-size: 20px;
+    text-align: left;
+    color: white;
+}
+
+#textotriangulo{
+    position: absolute;
+}
+
+#textfooter {
+    margin-top: 100px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-style: bold;
+    font-weight: 800;
+    font-size: 14px;
+}
+
+.w-100 {
+    width: 100% !important;
+  }
+
+.h5{
+    font-family: 'Poppins', sans-serif;
+    font-style: bold;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+#textoofrecen{
+    font-family: 'Poppins', sans-serif;
+    font-style: bold;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+#textomujeregular{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#textoresaltadomujer{
+    font-family: 'Poppins', sans-serif;
+    font-style: bold;
+    font-weight: 800;
+    font-size: 14px;
+}
+
+#textoextramujer{
+    font-family: 'Poppins', sans-serif;
+    font-style: bold;
+    font-weight: 800;
+    font-size: 14px;
+}
+
+#agregar {
+    border-color: white;
+}
